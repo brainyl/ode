@@ -1,2 +1,2 @@
 # ode
-Algorithms for ordinary differential equations
+Algorithms for ordinary differential equations.
